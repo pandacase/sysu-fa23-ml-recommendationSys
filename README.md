@@ -20,7 +20,7 @@
 
 3. `pip install streamlit` 
 
-    recommended python version: 3.8
+    recommended python version: 3.8 with brand new enviroment
 
 4. run server:
 
